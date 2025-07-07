@@ -1,13 +1,5 @@
 # 🔮 ทำนายดวง - Fortune Telling App
 
-<div align="center">
-
-![Fortune Telling App](https://img.shields.io/badge/Fortune-Telling-purple?style=for-the-badge&logo=crystal-ball)
-![Next.js](https://img.shields.io/badge/Next.js-15.3.5-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=for-the-badge&logo=framer)
-
 **แอปทำนายดวงครบครันที่สร้างด้วย Next.js และ Tailwind CSS**
 
 [🌟 ดูตัวอย่าง](#-ตัวอย่างการใช้งาน) • [🚀 เริ่มต้นใช้งาน](#-การติดตั้งและใช้งาน) • [📖 คู่มือ](#-คู่มือการใช้งาน) • [🛠️ เทคโนโลยี](#️-เทคโนโลยีที่ใช้)
@@ -250,7 +242,6 @@ MIT License - ดูรายละเอียดใน [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
 
 **สร้างด้วย ❤️ โดยทีมพัฒนา**
 
@@ -258,6 +249,3 @@ MIT License - ดูรายละเอียดใน [LICENSE](LICENSE) file
 
 [🔝 กลับไปด้านบน](#-ทำนายดวง---fortune-telling-app)
 
-</div>
-#   t a m n a y  
- 
